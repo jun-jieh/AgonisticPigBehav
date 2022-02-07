@@ -31,5 +31,5 @@ If you find this resource helpful, please cite.
 ![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Ethogram.png)
 
 * Further, three region of interests are investigated: 1) extended feeder area, 2) feeder region only, and 3) truncated feeder region.
-![]()
+![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/ROI.png)
 
