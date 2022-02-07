@@ -1,7 +1,7 @@
 # AgonisticPigBehav
 **Evaluation of computer vision for detecting agonistic behavior of pigs in single-spaced feeder through blocked cross-validation strategies**
 
-This repository explains different validation strategies for CNN+LSTM pipeline to classify agonitic behaivors between grow-finish pigs in single-spaced feeders.
+This repository explains different validation strategies for convolutional neural network (CNN) + long short-term memory (LSTM) pipeline to classify agonitic behaivors between grow-finish pigs in single-spaced feeders.
 
 If you find this resource helpful, please cite.
 
