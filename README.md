@@ -16,6 +16,6 @@ If you find this resource helpful, please cite.
 ## Software
 * Experiments were implemented in [MATLAB](https://www.mathworks.com/products/matlab.html/) (version R2021a)
 
-* [ResNet50](https://www.mathworks.com/help/deeplearning/ref/resnet50.html/), [GoogleNet](https://www.mathworks.com/help/deeplearning/ref/googlenet.html/), and [VGG16](https://www.mathworks.com/help/deeplearning/ref/vgg16.html/) were investigated for (CNN) transfer learning to extract spatial features.
+* [ResNet50](mathworks.com/help/deeplearning/ref/resnet50.html/), [GoogleNet](mathworks.com/help/deeplearning/ref/googlenet.html/), and [VGG16](mathworks.com/help/deeplearning/ref/vgg16.html/) were investigated for (CNN) transfer learning to extract spatial features.
 
 * GPU computing is available and is much faster compared to CPU. Typically, an [NVIDIA](https://developer.nvidia.com/cuda-gpus) graphic card is required for GPU computing.
