@@ -19,3 +19,9 @@ If you find this resource helpful, please cite.
 * [ResNet50](https://arxiv.org/abs/1512.03385/), [GoogleNet](https://arxiv.org/abs/1409.4842/), and [VGG16](https://arxiv.org/abs/1409.1556/) were investigated for (CNN) transfer learning to extract spatial features.
 
 * GPU computing is available and is much faster compared to CPU. Typically, an [NVIDIA](https://developer.nvidia.com/cuda-gpus) graphic card is required for GPU computing.
+
+## Workflow
+
+Layout of the pens and the focused area:
+
+![](https://github.com/jun-jieh/DE_DL/blob/master/Figures/Workflow.png)
