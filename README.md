@@ -22,11 +22,14 @@ If you find this resource helpful, please cite.
 
 ## Workflow
 
-Layout of the pens and the focused area (Panels A and C are for Feeder 1 while B and D are from Feeder 2):
+* Layout of the pens and the focused area (Panels A and C are for Feeder 1 while B and D are from Feeder 2):
 
 ![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Feeder%20Layout.png)
 
-Then we define several classes of agonistic behaviors (note: ear-to-body was merged into head-to-body):
+* Then we define several classes of agonistic behaviors (note: ear-to-body was merged into head-to-body):
 
 ![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Ethogram.png)
+
+* Further, three region of interests are investigated: 1) extended feeder area, 2) feeder region only, and 3) truncated feeder region.
+![]()
 
