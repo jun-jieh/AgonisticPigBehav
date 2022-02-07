@@ -33,3 +33,6 @@ If you find this resource helpful, please cite.
 * Further, three region of interests are investigated: 1) extended feeder area, 2) feeder region only, and 3) truncated feeder region.
 ![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/ROI.png)
 
+* The base classification unit is 30 frames. The dataset presented extreme class-imbalance. For majority categories (HB and NC) we cut the episodes without overlapping frames. For minority classes (L and M), we up-sampled episodes by overlapping 25 frames:
+
+![]()
