@@ -25,3 +25,8 @@ If you find this resource helpful, please cite.
 Layout of the pens and the focused area (Panels A and C are for Feeder 1 while B and D are from Feeder 2):
 
 ![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Feeder%20Layout.png)
+
+Then we define several classes of agonistic behaviors:
+
+![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Feeder%20Layout.png)
+
