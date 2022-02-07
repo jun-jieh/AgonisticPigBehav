@@ -1,1 +1,21 @@
 # AgonisticPigBehav
+**Evaluation of computer vision for detecting agonistic behavior of pigs in single-spaced feeder through blocked cross-validation strategies**
+
+This repository explains different validation strategies for CNN+LSTM pipeline to classify agonitic behaivors between grow-finish pigs in single-spaced feeders.
+
+If you find this resource helpful, please cite.
+
+## Table of contents
+* [Software](#Software)
+* [Workflow](#Workflow)
+* [Model_selection](#Model_selection)
+* [Demo](#Demo)
+* [Code](#Code)
+* [Dataset](#Dataset)
+
+## Software
+* Experiments were implemented in [MATLAB](https://www.mathworks.com/products/matlab.html/) (version R2021a)
+
+* [ResNet50](https://www.mathworks.com/help/deeplearning/ref/resnet50.html/), [GoogleNet](https://www.mathworks.com/help/deeplearning/ref/googlenet.html/), and [VGG16](https://www.mathworks.com/help/deeplearning/ref/vgg16.html/) were investigated for (CNN) transfer learning to extract spatial features.
+
+* GPU computing is available and is much faster compared to CPU. Typically, an [NVIDIA](https://developer.nvidia.com/cuda-gpus) graphic card is required for GPU computing.
