@@ -35,4 +35,8 @@ If you find this resource helpful, please cite.
 
 * The base classification unit is 30 frames. The dataset presented extreme class-imbalance. For majority categories (HB and NC) we cut the episodes without overlapping frames. For minority classes (L and M), we up-sampled episodes by overlapping 25 frames:
 
-![]()
+![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Upsampling.png)
+
+* The dataset contains 3,398 episodes for no-contact, 10,114 episodes for head-to-body, 925 episodes for levering, and 1,242 episodes for mounting (Total = 15,679).
+
+* Three types of validation strategies were utilized to 
