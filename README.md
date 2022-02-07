@@ -26,7 +26,7 @@ Layout of the pens and the focused area (Panels A and C are for Feeder 1 while B
 
 ![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Feeder%20Layout.png)
 
-Then we define several classes of agonistic behaviors:
+Then we define several classes of agonistic behaviors (note: ear-to-body was merged into head-to-body):
 
 ![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Ethogram.png)
 
