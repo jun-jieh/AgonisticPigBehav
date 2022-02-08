@@ -51,3 +51,7 @@ If you find this resource helpful, please cite.
 
 ## Validation
 * __Three types of validation strategies were utilized to evaluate the performance of the models: 1) random cross-validation, 2) block-by-time validation, and 3) block-by-feeder validation.__
+
+
+## CNN+LSTM
+* __A convolutional neural network (CNN) + long short-term memory (LSTM) pipeline was utilized to learn from the input videos. CNN was used for spatial feature extraction and LSTM was used for temporal feature extraction. The input was the resized videos (to match the dimension requirement of transfer learning). More specifically, the input consisted of 30 resized frames given the order of raw video. The output was the predicted behavior class along with softmax activation for its score.__
