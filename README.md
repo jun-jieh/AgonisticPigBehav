@@ -80,7 +80,7 @@ If you find this resource helpful, please cite.
 
 Note: * means that the function is modified based on existing online resource. Check [this from MathWorks](https://www.mathworks.com/help/deeplearning/ug/classify-videos-using-deep-learning.html/).
 
-## Dateset
+## Dataset
 
 To find the dataset used in this study, please make sure all files are downloaded from the OSF data repository:
 
