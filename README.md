@@ -60,7 +60,7 @@ If you find this resource helpful, please cite.
 
 * __CNN_LSTM_PigCV__ shows implementation of data processing, transfer learning, model fitting, and evaluation.
 
-* Notice there are multiple functions included in the __Functions__ folder:
+* Notice there are multiple functions included in the __Functions__ folder. Make sure they are added to path.
 
 `CompStats` computes the recall, precision, \& F1 Score based on given behavior labels and the confusion table.
 
