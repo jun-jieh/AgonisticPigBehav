@@ -11,11 +11,8 @@ If you find this resource helpful, please cite.
 * [Behaviors](#Behaviors)
 * [ROIs](#ROIs)
 * [Dataset](#Dataset)
-* [Validation](#Validation)
 * [CNN+LSTM](#CNN+LSTM)
-* [Demo](#Demo)
 * [Code](#Code)
-* [Dataset](#Dataset)
 
 ## Software
 * Experiments were implemented in [MATLAB](https://www.mathworks.com/products/matlab.html/) (version R2021a)
@@ -50,11 +47,7 @@ If you find this resource helpful, please cite.
 * __The dataset contains 3,398 episodes for no-contact, 10,114 episodes for head-to-body, 925 episodes for levering, and 1,242 episodes for mounting (Total = 15,679).__
 
 
-## Validation
-* __Three types of validation strategies were utilized to evaluate the performance of the models: 1) random cross-validation, 2) block-by-time validation, and 3) block-by-feeder validation.__
-
-
 ## CNN+LSTM
 * __A convolutional neural network (CNN) + long short-term memory (LSTM) pipeline was utilized to learn from the input videos. CNN was used for spatial feature extraction and LSTM was used for temporal feature extraction. The input was the resized videos (to match the dimension requirement of transfer learning). More specifically, the input consisted of 30 resized frames given the order of raw video. The output was the predicted behavior class along with softmax activation for its score.__
 
-![]()
+![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Pipeline.png)
