@@ -3,7 +3,7 @@
 % This will be used for CNN as a feature extractor
 netCNN = resnet50; % Alternatively, googlenet and vgg16 can be used for transfer learning
 % Specify the file directory that contains all video episodes
-dataFolder = "E:\Agonistic behavior\Public Data\Raw Videos\";
+dataFolder = "~\Raw Videos\";
 
 %%%% Note: the raw video episodes used the extended feeder as ROI %%%%
 %%%% Custom ROIs can be redefined to crop/modify the raw videos   %%%%
