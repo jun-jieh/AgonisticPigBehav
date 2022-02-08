@@ -28,14 +28,17 @@ If you find this resource helpful, please cite.
 
 
 
+
 * __Then we define several classes of agonistic behaviors (note: ear-to-body was merged into head-to-body):__
 
 ![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/Ethogram.png)
 
 
 
+
 * __Further, three region of interests are investigated: 1) extended feeder area, 2) feeder region only, and 3) truncated feeder region.__
 ![](https://github.com/jun-jieh/AgonisticPigBehav/blob/main/Figures/ROI.png)
+
 
 
 
@@ -45,8 +48,10 @@ If you find this resource helpful, please cite.
 
 
 
+
 * __The dataset contains 3,398 episodes for no-contact, 10,114 episodes for head-to-body, 925 episodes for levering, and 1,242 episodes for mounting (Total = 15,679).__
 
 
 
-* __Three types of validation strategies were utilized to __
+* __Three types of validation strategies were utilized to evaluate the performance of the models: 1) random cross-validation, 2) block-by-time validation, and 3) block-by-feeder validation.__
+* 
