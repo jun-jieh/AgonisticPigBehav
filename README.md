@@ -82,7 +82,7 @@ Note: * means that the function is modified based on existing online resource. C
 
 ## Dataset
 
-To find the dataset used in this study, please make sure all files are downloaded from the OSF Data Repository: https://osf.io/wa732/
+To find the dataset used in this study, please make sure all files are downloaded from the OSF Data Repository (under the folder `Data for paper on interaction recognition`): https://osf.io/wa732/
 
 * Check list:
 
