@@ -25,7 +25,7 @@ dataFolder = "~\Raw Videos\";
 % Define the proportion of the videos to use
 fraction = 1;
 % Load and label the videos
-[files,labels] = hmdb51Files(dataFolder,fraction);
+[files,labels] = videoFiles(dataFolder,fraction);
 % Make sure we resize the raw video into the same dimension 
 % as the input size of ResNet50. Then we save them as array data
 inputSize = netCNN.Layers(1).InputSize(1:2);
