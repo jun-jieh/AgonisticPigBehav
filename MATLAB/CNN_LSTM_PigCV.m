@@ -43,9 +43,8 @@ for i = 1:numFiles
     video = resizeVideo(video,inputSize);
     sequences{i,1} = activations(netCNN,video,layerName,'OutputAs','columns');
 end
-% Write the cell arrays into a single .mat file
+
 % Once extract, there is no need to repeat the feature extraction
-% save(tempFile,"sequences","-v7.3");
 
 % In OSF we provide the dataset with extracted features from ResNet-50
 % Note: this feature data was extracted based on the truncated feeder region
